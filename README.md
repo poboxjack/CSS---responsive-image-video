@@ -1,4 +1,4 @@
-RWD-snippet
+CSS - responsive image / video 
 ===========
 
-CSS - responsive image / video 
+RWD snippet for image & video 
