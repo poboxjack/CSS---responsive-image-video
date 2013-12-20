@@ -1,6 +1,7 @@
 .container {
   width: 960px;
   margin: 0 auto;
+  position: relative;
   }
   
 h1 {
@@ -8,7 +9,7 @@ h1 {
 }
 
 div.video-holder {
-  position: relative;
+  position: absolute;
   padding-bottom: 56.25%; /* 315 / 560 (base of aspect ratio of video)*/
   height: 0;
 }
